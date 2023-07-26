@@ -1,3 +1,3 @@
 My first readme
 echo 'My first readme' > README.md 
-README from github.com
+README from GitHub.com
