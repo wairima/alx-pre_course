@@ -1,2 +1,1 @@
-My first readme Updated
-echo 'My first readme' > README.md 
+My first readme is up to date
